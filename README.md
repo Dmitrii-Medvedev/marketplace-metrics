@@ -24,15 +24,8 @@
 ---
 
 ## 🛠️ Стек и инструменты
-- **Python**: Pandas, Numpy, Scipy, Plotly  
-- **SQL**  
+- **Python**: Pandas, Numpy, Scipy, Plotly 
 - **Jupyter Notebook**  
-
----
-
-## 📂 Файлы проекта
-- `marketplace-metrics.ipynb` — ноутбук с решением и визуализациями  
-- `README.md` — описание проекта  
 
 ---
 
